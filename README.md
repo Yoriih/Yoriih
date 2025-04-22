@@ -1,4 +1,4 @@
-# 🤓☝️ Nicolas Gonçalves
+# Nicolas Gonçalves 🤓☝️
 **Seja bem-vindo ao meu perfil!**
 > "Qualquer tecnologia suficientemente avançada é indistinguível da mágica." – Arthur C. Clarke 🎩🪄
 
