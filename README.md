@@ -2,7 +2,7 @@
 **Seja bem-vindo ao meu perfil!**
 > "Qualquer tecnologia suficientemente avançada é indistinguível da mágica." – Arthur C. Clarke 🎩🪄
 
-Olá! Me chamo Nicolas Gonçalves, sou estudante de Desenvolvimento de Sistemas e apaixonado por tecnologia, computadores e jogos. Tenho um grande interesse por IA e automação, e cada dia de estudo me faz enxergar ainda mais possibilidades incríveis para o futuro. Estou aqui pra aprender, evoluir e transformar ideias em realidade.
+Olá! Me chamo Nicolas Gonçalves e meu nickname é "Yoriih", sou estudante de Desenvolvimento de Sistemas e apaixonado por tecnologia, computadores e jogos. Tenho um grande interesse por IA e automação, e cada dia de estudo me faz enxergar ainda mais possibilidades incríveis para o futuro. Estou aqui pra aprender, evoluir e transformar ideias em realidade.
 Aqui compartilho atividades, projetos, ideias e experimentos que refletem essa jornada.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoriih/)
