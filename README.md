@@ -29,6 +29,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </div>
+
+## ⭐ GitHub Stats
+<a href="https://github.com/Yoriih">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yoriih&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoriih&layout=compact&langs_count=6&theme=tokyonight"/>
+</a>
 ---
 <br>
 
@@ -38,12 +44,5 @@
 <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
 </picture>
 
-## ⭐ GitHub Stats
-<a href="https://github.com/Yoriih">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yoriih&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoriih&layout=compact&langs_count=6&theme=tokyonight"/>
-</a>
-
 <br>
-
-
+---
