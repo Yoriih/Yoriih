@@ -45,10 +45,3 @@ Aqui no GitHub, compartilho um pouco dessa jornada: atividades, projetos, experi
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-
-<div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=yoriih.yoriih&left_color=darkviolet&right_color=orchid" width="80" />
-</div>
-
-<div align="center">
