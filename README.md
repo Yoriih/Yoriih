@@ -20,19 +20,19 @@ Aqui compartilho um pouco dessa jornada em forma de códigos, projetos e experim
 <div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap; gap: 20px;">
  
 <div>
-<h3>🖥️ Tecnologias e linguagens</h3>
+<h1>🖥️ Tecnologias e linguagens</h1>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 </div>
 
 <div>
-<h3>🚀 Frameworks e bibliotecas</h3>
+<h1>🚀 Frameworks e bibliotecas</h1>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 </div>
 
 <div>
-<h3>🛠️ Ferramentas de desenvolvimento</h3>
+<h1>🛠️ Ferramentas de desenvolvimento</h1>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
