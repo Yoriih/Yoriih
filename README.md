@@ -33,7 +33,7 @@
 ## ⭐ GitHub Stats
 <a href="https://github.com/Yoriih">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yoriih&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoriih&layout=compact&langs_count=6&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoriih&layout=compact&langs_count=6&theme=tokyonight"/>
 </a>
 
 <br>
