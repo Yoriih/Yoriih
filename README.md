@@ -46,7 +46,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 
-    </td>
+  </td>
     <td>
       <img src="https://raw.githubusercontent.com/Yoriih/Yoriih/main/afb89b62-1a12-41be-8032-103e8cf21674.png" width="300"/>
     </td>
