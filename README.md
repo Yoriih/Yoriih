@@ -42,6 +42,4 @@ Aqui no GitHub, compartilho um pouco dessa jornada: atividades, projetos, experi
 ### 🛠️ Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
-
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
