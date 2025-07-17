@@ -33,22 +33,20 @@
   <table border="0" cellpadding="0" cellspacing="0">
   <tr align="left">
     <td width="50%" valign="top">
-    <h3>🖥️ Tecnologias e linguagens</h3>
+      <h3>🖥️ Tecnologias e linguagens</h3>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-
-  <h3>🚀 Frameworks e bibliotecas</h3>
+      <h3>🚀 Frameworks e bibliotecas</h3>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-
-  <h3>🛠️ Ferramentas de desenvolvimento</h3>
+      <h3>🛠️ Ferramentas de desenvolvimento</h3>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Yoriih/Yoriih/refs/heads/main/computer-illustration.png" width="500"/>
-    </td>
+  </td>
+  <td width="50%" valign="top">
+    <img src="https://raw.githubusercontent.com/Yoriih/Yoriih/refs/heads/main/computer-illustration.png" width="500"/>
+  </td>
   </tr>
   </table>
 </div>
