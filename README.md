@@ -1,10 +1,10 @@
 # 🤓 Oi, eu sou Nicolas Gonçalves!
 <p align="left">
-Estudante de Análise e Desenvolvimento de Sistemas na UNIUBE, apaixonado por tecnologia, computadores e claro, um bom jogo.
-Tenho um interesse genuíno por Inteligência Artificial e automação, áreas que me despertam curiosidade e me motivam a criar soluções que facilitem o dia a dia.
-Estou sempre buscando aprender algo novo, evoluir e transformar boas ideias em projetos reais.
-Aqui no GitHub, compartilho um pouco dessa jornada: atividades, projetos, experimentos e tudo mais que possa contribuir para o meu desenvolvimento — e quem sabe, inspirar alguém também.
+  Estudante de Análise e Desenvolvimento de Sistemas (UNIUBE), apaixonado por tecnologia, computadores e jogos.
+Curioso por Inteligência Artificial e automação, estou sempre buscando aprender, evoluir e transformar ideias em projetos reais.
+Aqui compartilho um pouco dessa jornada em forma de códigos, projetos e experimentos.
 </p>
+
 <p align="left">
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=contato.nicolasgoncalves@gmail.com" title="Gmail">
 <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=contato.nicolasgoncalves@gmail.com" alt="Gmail"/></a>
@@ -32,7 +32,7 @@ Aqui no GitHub, compartilho um pouco dessa jornada: atividades, projetos, experi
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoriih&layout=compact&langs_count=6&theme=tokyonight"/>
 
 
-## Tecnologias e linguagens 💻
+## 💻 Tecnologias e linguagens 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,python)](https://skillicons.dev)
 
