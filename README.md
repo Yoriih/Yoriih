@@ -48,7 +48,7 @@ Aqui no GitHub, compartilho um pouco dessa jornada: atividades, projetos, experi
 
 
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=eduardavieira-dev.eduardavieira-dev&left_color=darkviolet&right_color=orchid" width="80" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=yoriih.yoriih&left_color=darkviolet&right_color=orchid" width="80" />
 </div>
 
 <div align="center">
