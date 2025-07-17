@@ -1,20 +1,43 @@
-# Nicolas Gonçalves 🤓☝️
+# 🤓 Oi, eu sou Nicolas Gonçalves!
 **Seja bem-vindo ao meu perfil!**
+
+Sou estudante de Análise e Desenvolvimento de Sistemas (UNIUBE), apaixonado por tecnologia, computadores e jogos.<br>
+Curioso por Inteligência Artificial e automação, estou sempre buscando aprender, evoluir e transformar ideias em projetos reais.<br>
+Aqui compartilho um pouco dessa jornada em forma de códigos, projetos e experimentos.
+
 > "Qualquer tecnologia suficientemente avançada é indistinguível da mágica." – Arthur C. Clarke 🎩🪄
 
-Olá! Me chamo Nicolas Gonçalves e meu nickname é "Yoriih", sou estudante de Análise e Desenvolvimento de Sistemas (UNIUBE) e apaixonado por tecnologia, computadores e jogos. Tenho um grande interesse por IA e automação, e cada dia de estudo me faz enxergar ainda mais possibilidades incríveis para o futuro. Estou aqui pra aprender, evoluir e transformar ideias em realidade.
-Aqui compartilho atividades, projetos, ideias e experimentos que refletem essa jornada.
+<p align="left">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=contato.nicolasgoncalves@gmail.com" title="Gmail">
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/yoriih/" title="LinkedIn">
+<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/ynick_dev/" title="Instagram">
+<img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoriih/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.nicolasgoncalves@gmail.com)
----
-## 🤖 Linguagens e Tecnologias
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<br/>
+<table align="center">
+<tr>
+<td align="center">
+<h3>🖥️ Tecnologias e linguagens</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+</td>
+<td align="center">
+<h3>🚀 Frameworks e bibliotecas</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+</td>
+<td align="center">
+<h3>🛠️ Ferramentas de desenvolvimento</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+</td>
+</tr>
+</table>
 
----
+
 ## 📊 Estatísticas
  ![Nicolas Gonçalves GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoriih&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) 
  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=yoriih&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) 
