@@ -16,26 +16,32 @@ Aqui compartilho um pouco dessa jornada em forma de códigos, projetos e experim
 <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<table align="center">
-<tr>
-<td align="center">
+---
+<div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap; gap: 20px;">
+ 
+<div>
 <h3>🖥️ Tecnologias e linguagens</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-</td>
-<td align="center">
+</div>
+
+<div>
 <h3>🚀 Frameworks e bibliotecas</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-</td>
-<td align="center">
+</div>
+
+<div>
 <h3>🛠️ Ferramentas de desenvolvimento</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-</td>
-</tr>
-</table>
+</div>
+
+</div>
+
+
+---
 
 
 ## 📊 Estatísticas
