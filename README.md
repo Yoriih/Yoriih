@@ -1,4 +1,4 @@
-# 🧓 Oi, eu sou Nicolas Gonçalves!
+# 🤓 Oi, eu sou Nicolas Gonçalves!
 <p align="left">
   Estudante de Análise e Desenvolvimento de Sistemas (UNIUBE), apaixonado por tecnologia, computadores e jogos.<br>
   Curioso por Inteligência Artificial e automação, estou sempre buscando aprender, evoluir e transformar ideias em projetos reais.<br>
@@ -29,24 +29,24 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoriih&layout=compact&langs_count=6&theme=tokyonight"/>
 </a>
 
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-  <tr align="left">
-    <td width="50%" valign="top">
-      <h3>🖥️ Tecnologias e linguagens</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-      <h3>🚀 Frameworks e bibliotecas</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-      <h3>🛠️ Ferramentas de desenvolvimento</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  </td>
-  <td width="50%" valign="top">
+<br>
+
+<div style="display: flex; align-items: flex-start; gap: 24px;">
+  <div style="flex: 1;">
+    <h3>🖥️ Tecnologias e linguagens</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+
+    <h3>🚀 Frameworks e bibliotecas</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+
+    <h3>🛠️ Ferramentas de desenvolvimento</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  </div>
+  <div style="flex: 1;">
     <img src="https://raw.githubusercontent.com/Yoriih/Yoriih/refs/heads/main/computer-illustration.png" width="500"/>
-  </td>
-  </tr>
-  </table>
+  </div>
 </div>
