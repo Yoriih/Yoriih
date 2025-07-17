@@ -31,7 +31,7 @@
 
 <br>
 
-<div style="display: flex; align-items: flex-start; gap: 100px;">
+<div style="display: flex; align-items: center; gap: 24px;">
 <div style="flex: 1;">
 <h3>🖥️ Tecnologias e linguagens</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
