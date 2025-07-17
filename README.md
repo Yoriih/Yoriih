@@ -48,4 +48,14 @@ Aqui compartilho um pouco dessa jornada em forma de códigos, projetos e experim
  ![Nicolas Gonçalves GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoriih&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) 
  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=yoriih&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) 
 
+<br>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+</picture>
+
+<br>
+
 
