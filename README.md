@@ -32,21 +32,21 @@
 <br>
 
 <div style="display: flex; align-items: flex-start; gap: 24px;">
-  <div style="flex: 1;">
-    <h3>🖥️ Tecnologias e linguagens</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<div style="flex: 1;">
+<h3>🖥️ Tecnologias e linguagens</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 
-    <h3>🚀 Frameworks e bibliotecas</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<h3>🚀 Frameworks e bibliotecas</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 
-    <h3>🛠️ Ferramentas de desenvolvimento</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  </div>
-  <div style="flex: 1;">
-    <img src="https://raw.githubusercontent.com/Yoriih/Yoriih/refs/heads/main/computer-illustration.png" width="500"/>
-  </div>
+<h3>🛠️ Ferramentas de desenvolvimento</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+</div>
+<div style="flex: 1;">
+<img src="https://raw.githubusercontent.com/Yoriih/Yoriih/refs/heads/main/computer-illustration.png" width="500"/>
+</div>
 </div>
