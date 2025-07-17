@@ -16,8 +16,7 @@ Aqui compartilho atividades, projetos, ideias e experimentos que refletem essa j
 
 ---
 ## 📊 Estatísticas
-| ![Nicolas Gonçalves GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoriih&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) 
-| ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=yoriih&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) 
-|
-| --- | --- |
+ ![Nicolas Gonçalves GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoriih&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) 
+ ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=yoriih&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) 
+
 
