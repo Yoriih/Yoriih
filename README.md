@@ -46,7 +46,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </div>
-<div style="flex: 1;">
-<img src="https://raw.githubusercontent.com/Yoriih/Yoriih/refs/heads/main/computer-illustration.png" width="300"/>
-</div>
-</div>
