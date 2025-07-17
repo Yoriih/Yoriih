@@ -33,7 +33,7 @@
   <tr>
     <td>
 
-<font size="4"><b>🖥️ Tecnologias e linguagens</b></font>
+<font size="12"><b>🖥️ Tecnologias e linguagens</b></font>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
