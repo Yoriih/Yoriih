@@ -48,7 +48,7 @@
 
   </td>
     <td>
-      <img src="https://raw.githubusercontent.com/Yoriih/Yoriih/main/afb89b62-1a12-41be-8032-103e8cf21674.png" width="300"/>
+      <img src="[https://raw.githubusercontent.com/Yoriih/Yoriih/main/afb89b62-1a12-41be-8032-103e8cf21674.png](https://github.com/Yoriih/Yoriih/blob/main/computer-illustration.png?raw=true)" width="300"/>
     </td>
   </tr>
 </table>
